@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "SbiFit"
+    }
+  },
+  "defaultProject": "SbiFit",
+  "cli": {
+    "analytics": "b963b425-2771-4de1-bc70-e25eeaa709af"
+  }
 }
